@@ -36,9 +36,8 @@ https://hs1204.github.io/pf5-Samsung-English-Selena/
 ## 스크린샷 또는 데모(포트폴리오 웹사이트의 스크린샷을 추가)
 ![pf1](https://hs1204.github.io/pf1-accuinq/img/dashboard.png)
 ![pf2](https://hs1204.github.io/pf2-ipoint/img/logo-lpoint-y.png)
-![pf3](![image](https://github.com/hs1204/lee/assets/150096206/50493ca7-f699-4efe-a75f-a533fcafd9dd)
-)
-![ww](https://github.com/pageservice/personal/assets/71798491/30c357e8-d39b-42e6-9c30-0db7706f73d4)
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
