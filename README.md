@@ -1,4 +1,4 @@
-![image](https://github.com/hs1204/lee/assets/150096206/de9937fd-3992-4429-a631-43da530d01ac)
+
 ### https://hs1204.github.io/lee
 # 🕵️프로젝트 명 : 이형석 포트폴리오 홈페이지
 ```bash
