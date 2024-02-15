@@ -1,0 +1,77 @@
+section#about{
+  background-color: #000;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100vh;
+  min-height: 600px;
+}
+section#about .wrap{
+  background-color: white;
+  box-sizing: border-box;
+  border-radius: 30px;
+  padding-bottom: -22px;
+}
+section#about .wrap h2::before{
+  font-size: 25px;
+  
+  width: 20px;
+  /*! display: inline-block; */
+  /*! font-family: 'Kanit', sans-serif; */
+  
+}
+section#about .wrap p{
+   
+  margin-left: 274px;
+  margin-bottom: 17px;
+  font-weight: bold;
+  color: #272626bd;
+}
+section#about .wrap ul{
+   
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 60px;
+  width: 117%;
+  letter-spacing: 5px;
+  gap: 22px;
+  font-weight: bold;
+}
+section#about .wrap ul li{
+   
+  display: block;
+  background-color: #a1b5f6;
+  width: 150px;
+  height: 40px;
+  line-height: 40px;
+  border-radius: 20px;
+}
+section#about .wrap div{
+  
+  width: 60%;
+  margin: 0 auto;
+  text-align: center;
+}
+section#about .wrap div img{
+  
+  width: 300px;
+  margin-left: -13%;
+  border-radius: 30px;
+  display: flex;
+  height: 291px;
+}
+section#about .wrap h4{
+  
+  font-size: 167%;
+}
+section#about .wrap h5{
+  
+  font-size: 99%;
+  line-height: 1.6;
+}
+section#about .wrap h5 span{
+  
+  color: #182960;
+  font-size: 153%;
+}

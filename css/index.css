@@ -1,0 +1,94 @@
+/* 상단영역 */
+header{
+  width: 1440px; /* 너비지정   */
+  margin: 0 auto; /* 중앙정렬 */
+  background-color: rgba(255,255,255,0.5);
+  height: 85px;
+  position: absolute;
+  width: 100%;
+}
+header .wrap{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 100%;
+}
+header h1{
+  color:red;
+}
+header h1 a{
+  color: black;
+  font-size: 0px;
+  text-transform: capitalize;
+  letter-spacing: 2px;
+  /*! font-weight: bold; */
+  font-family: 'Analogist', sans-serif;
+  /*! background-color: rgba(255,255,255,0.5); */
+  background-image: url(../img/slrena1.png);
+  width: 180px;
+  height: 76px;
+  display: flex;
+  margin-left: -132px;
+}
+header ul{
+  display: flex;
+  gap: 90px;
+  font-family: 'Kanit', sans-serif;
+  color: black;
+  font-size: 140%;
+}
+header ul li{
+   
+}
+header ul li:hover{
+  color: yellow;
+}
+header ul li a{
+  color: white;
+  text-transform: uppercase;
+}
+/* 자식선택자 : 바로아래있는 선택자(태그) */
+header div.wrap>a{
+  font-size: 0;
+  width: 30px;
+  height: 30px;
+  background-image: url(../img/menu.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+/* 타이틀 영역 */
+div#title{
+  background-color: #eee;
+  background-image: url(https://i.pinimg.com/originals/ae/24/dc/ae24dce72a22b18e3c53803aab476a73.gif);
+  background-size: cover;
+  /*! background-position: center bottom; */
+  background-repeat: no-repeat;
+  background-position: center;
+}
+div#title div.wrap{ /* 하위선택자 */
+  height: 800px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+}
+
+div h2{
+  font-family: 'Analogist', sans-serif;
+  color: black;
+}
+div p{
+  
+}
+div#title .wrap h2 span{
+  
+  color: white;
+}
+
+
+
+
+
+
